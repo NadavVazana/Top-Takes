@@ -46,6 +46,6 @@ http.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })
 
-// DANGER!
-// deleteAllUsers()
+
+
 

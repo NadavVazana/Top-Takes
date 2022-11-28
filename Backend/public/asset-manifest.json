@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c18ea381.css",
+    "main.js": "/static/js/main.88a00aea.js",
+    "static/media/MontserratAlternates-Regular.otf": "/static/media/MontserratAlternates-Regular.a5a4219b37b4e2270a3c.otf",
+    "static/media/WixMadeforTextRegular.otf": "/static/media/WixMadeforTextRegular.72c2e4503a727eedeab1.otf",
+    "static/media/EduVICWANTBeginner-VariableFont_wght.ttf": "/static/media/EduVICWANTBeginner-VariableFont_wght.6ba3877fd8693a74df58.ttf",
+    "static/media/login-svgrepo-com.svg": "/static/media/login-svgrepo-com.0f94b4c7520e645d2e701eeedb4372ec.svg",
+    "static/media/delete-svgrepo-com.svg": "/static/media/delete-svgrepo-com.8aa93fccf6f246f8ceda538df542b2af.svg",
+    "static/media/upload-cloud.svg": "/static/media/upload-cloud.3b3505a1bf0baf0db275961ee39f6d26.svg",
+    "static/media/upload-button-svgrepo-com.svg": "/static/media/upload-button-svgrepo-com.ce8e54d10ad9c139fc72f4390f5d8e7f.svg",
+    "static/media/share-svgrepo-com.svg": "/static/media/share-svgrepo-com.307061cdfd12e84ff0e7ab7137a0d4a0.svg",
+    "static/media/upload-icon.svg": "/static/media/upload-icon.12746f5340566bf082fc1e8251a24e08.svg",
+    "static/media/social-svgrepo-com (3).svg": "/static/media/social-svgrepo-com (3).94c8dcc9b51d06f880e7360f1b4f3c9a.svg",
+    "index.html": "/index.html",
+    "main.c18ea381.css.map": "/static/css/main.c18ea381.css.map",
+    "main.88a00aea.js.map": "/static/js/main.88a00aea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c18ea381.css",
+    "static/js/main.88a00aea.js"
+  ]
+}
